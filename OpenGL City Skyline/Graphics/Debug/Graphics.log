@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Victor\Work\Graphics\Summer 2023\Graphics\Graphics\Graphics\main.cpp(10,26): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Victor\Work\Graphics\Summer 2023\Graphics\Graphics\Graphics\main.cpp(29,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Graphics.vcxproj -> C:\Victor\Work\Graphics\Summer 2023\Graphics\Graphics\Debug\Graphics.exe
